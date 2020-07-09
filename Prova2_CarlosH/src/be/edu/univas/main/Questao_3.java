@@ -7,7 +7,7 @@ public class Questao_3 {
 		Scanner sc = new Scanner(System.in);
 		double t = 0;
 		
-		for(int i=0;i<10;i++) {
+		for(int i=0;i<150;i++) {
 			double s = sc.nextDouble();
 			t = t+s;
 		}
